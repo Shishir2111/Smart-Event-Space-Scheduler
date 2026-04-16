@@ -1,4 +1,5 @@
 # Smart-Event-Space-Scheduler
+
 from datetime import datetime
 import matplotlib.pyplot as plt
 
